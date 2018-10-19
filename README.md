@@ -1,5 +1,5 @@
 # Distributed Control Systems
-
+:mortar_board:
 
 ## *Course content*
 
@@ -18,6 +18,7 @@
 * Open DCS and subsystem integration
 
 ## *Educational goals and outcomes*
+
 
 * Knowledge, skills and abilities necessary for an understanding of complexity of distributed systems, with emphasis on automatic control systems, real-time systems and critical infrastructural systems.
 
