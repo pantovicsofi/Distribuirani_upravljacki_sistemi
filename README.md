@@ -23,6 +23,5 @@
 
 * Students will learn the paradigms and principles of such systems and they will be able to solve engineering problems, use existing distributed systems, as well as to participate in the development of new applications for distributed systems.
 
-![Image] (http://univerziteti.bos.rs/fakulteti/small/131/ftn_logo.jpg)
 
 :cat:
